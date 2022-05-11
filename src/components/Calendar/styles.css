@@ -1,0 +1,6 @@
+.calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    margin: 10px;
+    background-color: #DDD;
+}

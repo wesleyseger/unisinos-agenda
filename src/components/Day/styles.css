@@ -1,0 +1,9 @@
+.card--day{
+    border-color: rgba(0,0,0,.1) !important;
+    border-radius: 0 !important;
+    padding-bottom: 50%;
+}
+
+.card--day:hover{
+    transform: scale(1.01);
+}

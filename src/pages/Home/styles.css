@@ -1,0 +1,10 @@
+.selector-container {
+  	width: 100%;
+}
+
+.selector-container input {
+	background-color: #DDD;
+	border: none;
+	padding: 5px 10px;
+	border-radius: 5px;
+}

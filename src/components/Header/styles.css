@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  background-color: #DB4C3F;
+  width: 100%;
+  padding: 10px;
+  justify-content: space-between;
+  align-items: center;
+  color: #FFF;
+}
+
+.header>button {
+  color: #DB4C3F;
+  background-color: #FFF;
+  border: none;
+  border-radius: 5px;
+  padding: 5px 20px;
+  font-weight: 500;
+}

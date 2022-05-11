@@ -1,0 +1,47 @@
+.btnSalvar {
+    color: #FFF;
+    background-color: #DB4C3F;
+    border: #DB4C3F;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-weight: 500;
+}
+
+.btnCancelar {
+    color: #DB4C3F;
+    background-color: #FFF;
+    border: #DB4C3F;
+    border-radius: 5px;
+    padding: 5px 20px;
+    font-weight: 500;
+}
+
+.picker{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+}
+
+.new-schedule-body textarea{
+    width: 100%;
+    min-height: 200px;
+    padding: 20px;
+}
+
+.new-schedule-body input{
+    min-width: 300px;
+    width: 100%;
+    padding: 10px 20px;
+}
+
+.new-schedule-body span{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-top: 20px;
+}
+
+.picker :nth-child(1){
+    margin-right: 10px;
+}
